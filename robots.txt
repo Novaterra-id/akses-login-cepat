@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://akses-login-cepat.netlify.app/sitemap.xml
